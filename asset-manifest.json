@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ecomm-webapp/static/css/main.f855e6bc.css",
-    "main.js": "/ecomm-webapp/static/js/main.ef824bcc.js",
-    "static/js/453.67280bcc.chunk.js": "/ecomm-webapp/static/js/453.67280bcc.chunk.js",
-    "static/media/logo.svg": "/ecomm-webapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ecomm-webapp/static/css/main.3c196c02.css",
+    "main.js": "/ecomm-webapp/static/js/main.851ca95d.js",
+    "static/media/cake3.jpg": "/ecomm-webapp/static/media/cake3.1fb402ea7343efa9f75b.jpg",
+    "static/media/chocolate1.jpg": "/ecomm-webapp/static/media/chocolate1.905a871d85d10c01bd9e.jpg",
     "index.html": "/ecomm-webapp/index.html",
-    "main.f855e6bc.css.map": "/ecomm-webapp/static/css/main.f855e6bc.css.map",
-    "main.ef824bcc.js.map": "/ecomm-webapp/static/js/main.ef824bcc.js.map",
-    "453.67280bcc.chunk.js.map": "/ecomm-webapp/static/js/453.67280bcc.chunk.js.map"
+    "main.3c196c02.css.map": "/ecomm-webapp/static/css/main.3c196c02.css.map",
+    "main.851ca95d.js.map": "/ecomm-webapp/static/js/main.851ca95d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ef824bcc.js"
+    "static/css/main.3c196c02.css",
+    "static/js/main.851ca95d.js"
   ]
 }
