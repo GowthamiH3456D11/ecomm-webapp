@@ -44,16 +44,17 @@
 
 div .container{
   
-  border-radius: 20%;
-  border: solid 1px rgb(216, 130, 170);
-  height: 100px;
-  width: 100px;
+  /* border-radius: 20%; */
+  /* border: solid 1px rgb(19, 18, 18); */
+  height: 90px;
+  width: 90px;
   
-  padding: 90px;
+  padding: 80px;
   text-align: center;
   margin: 5px;
-  background-color: rgb(231, 120, 198);
+  background-color: rgb(248, 244, 247);
   border-style: dotted black;
+  
   
 }
 
@@ -69,7 +70,19 @@ padding: 20px 60px 40px;
 }
 
 .color{
-background-color: rgb(75, 21, 66);
+background-color: rgb(253, 250, 253);
 text-align: center;
-color: rgb(231, 38, 12);
+color: rgb(19, 18, 18);
+}
+
+.btn{
+  background-color: blue;
+  display: flex;
+}
+.image{
+  height: 130px;
+  width: 130px;
+  /* margin: 10px 5px 10px 5px; */
+  margin-left: 5px;
+  margin-top: 10px;
 }

@@ -7,6 +7,7 @@ import img4 from './chocolat6.jpg';
 import img5 from './chocolate1.jpg';
 import img6 from './chocolate2.jpg';
 
+
 export default function Mystore() {
 
     const products = [
@@ -28,10 +29,12 @@ export default function Mystore() {
                     <div className="container" >
                     <div key={index}>
                         {/* <div><img src={product.image} height={110} width={120}  /></div> */}
-                        <div><img src={product.image} height={110} width={120}  /></div>
+                        <div ><img src={product.image}  height={110} width={110} /></div>
                         <div>{product.name}</div>
                         <div> {product.price} </div> 
-                        <div> <button>Add to cart</button></div>
+                        <div class="btn">
+                             <button>Add to cart</button>
+                             </div>
                     </div>
                     </div>
 
@@ -42,4 +45,4 @@ export default function Mystore() {
     );
 }
 
-                
+            
