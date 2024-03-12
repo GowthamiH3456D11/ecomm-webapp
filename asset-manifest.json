@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecomm-webapp/static/css/main.3c196c02.css",
-    "main.js": "/ecomm-webapp/static/js/main.851ca95d.js",
+    "main.css": "/ecomm-webapp/static/css/main.55c134d7.css",
+    "main.js": "/ecomm-webapp/static/js/main.48fff351.js",
     "static/media/cake3.jpg": "/ecomm-webapp/static/media/cake3.1fb402ea7343efa9f75b.jpg",
     "static/media/chocolate1.jpg": "/ecomm-webapp/static/media/chocolate1.905a871d85d10c01bd9e.jpg",
     "index.html": "/ecomm-webapp/index.html",
-    "main.3c196c02.css.map": "/ecomm-webapp/static/css/main.3c196c02.css.map",
-    "main.851ca95d.js.map": "/ecomm-webapp/static/js/main.851ca95d.js.map"
+    "main.55c134d7.css.map": "/ecomm-webapp/static/css/main.55c134d7.css.map",
+    "main.48fff351.js.map": "/ecomm-webapp/static/js/main.48fff351.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c196c02.css",
-    "static/js/main.851ca95d.js"
+    "static/css/main.55c134d7.css",
+    "static/js/main.48fff351.js"
   ]
 }
